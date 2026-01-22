@@ -11,3 +11,5 @@ I can use simple text formatting to make **bold** or *italicized* text
 Hello everyone
 
 Test page for github
+
+Adding new line from Github
